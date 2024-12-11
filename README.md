@@ -80,3 +80,5 @@ len(items)
 Phoenix Subdivision Shapefile: U.S. Census Bureau. (2024). Cartographic boundary files - shapefile (Version 2024). Census.gov.Retrieved from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
 Biodiversity Intactness Index (BII) Time Series: Impact Observatory & Vizzuality. (2024). Biodiversity intactness index (BII) time series (Version 1). Microsoft Planetary Computer STAC catalog. Retrieved from https://planetarycomputer.microsoft.com/api/stac/v1/collections/io-biodiversity
+
+University of California, Santa Barbara. (2024). MEDS EDS 220 course. Retrieved from https://meds-eds-220.github.io/MEDS-eds-220-course/
