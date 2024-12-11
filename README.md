@@ -24,7 +24,7 @@ BII_Maricopa_County
 ```
 
 #### **Data & Access:**
-The data used in this analysis includes the io-biodiversity collection from the Microsoft Planetary Computer STAC catalog as well as a shapefile for Phoenix Subdivision from the Census.gov website. 
+The data used in this analysis includes the io-biodiversity collection from the Microsoft Planetary Computer STAC catalog as well as a shapefile for Phoenix Subdivision from the Census.gov website. When you go to the Census website you will navigate to Tiger Shapefiles. Then select the year 2022 and county subdivision. Then, it will navigate for you to select the state, in this case Arizona. 
 
 The Biodiversity Intactness Index (BII) is a measure of how much of a region's natural biodiversity remains intact despite human pressures. It estimates the average abundance of native species in a given area compared to their abundance in undisturbed conditions. The BII is calculated using data on plants, fungi, and animals from ecological studies conducted worldwide. This Biodiversity data was pulled directly through an API and steps are as follows:
 
@@ -72,6 +72,9 @@ search = catalog.search(
     datetime = time_range)
 search
 
+# Retrieve search items, you should have 4
+items = search.item_collection()
+len(items)
 ```
 #### **References:**
 
