@@ -6,6 +6,7 @@ Changes in biodiversity in Phoenix, AZ Subdivision
 **About:**
 This repository aims to analyze the impact of urbanization on biodiversity loss in Phoenix, AZ, from 2017 to 2020. Through data analysis and visualization, we aim to identify areas where biodiversity intactness has been most significantly affected
 
+```
 **Repository Structure:**
 BII_Maricopa_County
 │   README.md
@@ -20,7 +21,7 @@ BII_Maricopa_County
     |   tl_2022_04_cousub.shp.ea.iso.xml
     |   tl_2022_04_cousub.shp.iso.xml
     |   tl_2022_04_cousub.shx
-
+```
 
 **Data:**
 The data used in this analysis includes the io-biodiversity collection from the Microsoft Planetary Computer STAC catalog as well as a shapefile for Phoenix Subdivision from the Census.gov website. The Biodiversity Intactness Index (BII) is a measure of how much of a region's natural biodiversity remains intact despite human pressures. It estimates the average abundance of native species in a given area compared to their abundance in undisturbed conditions. The BII is calculated using data on plants, fungi, and animals from ecological studies conducted worldwide. This Biodiversity data was pulled directly through an API. The shapefile is the only data in the data folder. 
