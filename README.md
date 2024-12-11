@@ -6,8 +6,8 @@ Changes in biodiversity in Phoenix, AZ Subdivision
 **About:**
 This repository aims to analyze the impact of urbanization on biodiversity loss in Phoenix, AZ, from 2017 to 2020. Through data analysis and visualization, we aim to identify areas where biodiversity intactness has been most significantly affected
 
-```
 **Repository Structure:**
+```
 BII_Maricopa_County
 │   README.md
 │   maricopa_biodiversity.ipynb    
