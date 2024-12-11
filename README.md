@@ -1,5 +1,4 @@
 # Biodiversity Intactness Index Maricopa County
-Changes in biodiversity in Phoenix, AZ Subdivision
 
 ### **Title:** Urbanization and Biodiversity Loss: Analyzing the Impact on Phoenix, AZ (2017-2020)
 
