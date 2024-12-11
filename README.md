@@ -4,7 +4,7 @@ Changes in biodiversity in Phoenix, AZ Subdivision
 ### **Title:** Urbanization and Biodiversity Loss: Analyzing the Impact on Phoenix, AZ (2017-2020)
 
 #### **About:**
-This repository aims to analyze the impact of urbanization on biodiversity loss in Phoenix, AZ, from 2017 to 2020. Through data analysis and visualization, we aim to identify areas where biodiversity intactness has been most significantly affected
+This repository aims to analyze the impact of urbanization on biodiversity loss in Phoenix, AZ, from 2017 to 2020. Through data analysis and visualization, we aim to identify areas where biodiversity intactness has been most significantly affected. In this repository you will find a data folder containing the shapfile for Phoenix Subdivision, a README containing everything you need to know about the repository, a .gitignore showing which objects git is not tracking, and a .ipynb notebook containing my analysis of BII chnage in the Poenix Subdivision.
 
 #### **Repository Structure:**
 ```
